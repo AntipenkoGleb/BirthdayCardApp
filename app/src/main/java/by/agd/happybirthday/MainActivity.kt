@@ -33,8 +33,8 @@ fun Greeting(name: String) {
 
 @Preview(showBackground = true)
 @Composable
-fun DefaultPreview() {
+fun BirthdayCardPreview() {
     HappyBirthdayTheme {
-        Greeting("Android")
+        Greeting("Gleb")
     }
 }
